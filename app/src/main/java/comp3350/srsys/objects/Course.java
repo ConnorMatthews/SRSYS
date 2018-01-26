@@ -36,7 +36,7 @@ public class Course
 	{
 		boolean result;
 		Course c;
-		
+		//this is a test comment
 		result = false;
 		
 		if (object instanceof Course)
