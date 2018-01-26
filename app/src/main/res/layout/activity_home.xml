@@ -9,7 +9,7 @@
         android:id="@+id/textTitle"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/student_records_system" />
+        android:text="Goal Tracking System" />
 
     <ImageView
         android:layout_width="wrap_content"
